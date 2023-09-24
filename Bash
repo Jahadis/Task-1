@@ -1,0 +1,8 @@
+POST http://localhost:8080/servers
+Content-Type: application/json
+
+{
+  "name": "my centos",
+  "language": "java",
+  "framework": "django"
+}
